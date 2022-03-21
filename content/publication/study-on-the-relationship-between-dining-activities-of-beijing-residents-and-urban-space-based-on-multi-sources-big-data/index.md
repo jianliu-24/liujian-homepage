@@ -26,5 +26,5 @@ image:
   caption: Liu J, Meng B, Chen S, Chen Z, Zhan D. Study on the Relationship
     between Dining Activities of Beijing Residents and Urban Space based on
     Multi-sources Big Data. Human Geography. 2021; 36(2):63-72+183. (in Chinese)
-date: 2022-03-21T08:06:58.323Z
+date: 2021-04-15T00:00:58.323Z
 ---

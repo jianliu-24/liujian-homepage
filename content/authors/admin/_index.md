@@ -1,7 +1,7 @@
 ---
 title: Jian Liu
 role: Master of Science
-avatar_filename: 2.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include human behaviors, urban dynamics, and complex
   network using multi-source big data and interdisciplinary advanced
   technologies.

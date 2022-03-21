@@ -9,7 +9,7 @@ date: 2021-11-20T00:00:34.287Z
 date_end: 2021-11-21T09:00:58.016Z
 all_day: false
 event: 2021年中国行为地理学术年会暨第十七次空间行为与规划学术研讨会
-event_url: "1"
+event_url: Non
 featured: false
 authors: []
 url_video: ""

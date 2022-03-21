@@ -40,7 +40,7 @@ draft: false
 featured: true
 tags: []
 categories: []
-slides: example
+slides: ""
 url_pdf: ""
 image:
   caption: "Meng B, Wang J, Chen, S, Tian B, Zhi G. Exploring the Spatiotemporal

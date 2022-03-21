@@ -5,7 +5,7 @@ summary: 2020.12 – 2021.07
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---

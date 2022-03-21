@@ -11,10 +11,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Travel behaviors
+      tag: Travel behaviors
+    - name: Urban space
+      tag: Urban space
+    - name: Complex networks
+      tag: Complex networks
     - name: Other
-      tag: Demo
+      tag: Demo    
 design:
   columns: "2"
   view: 2

@@ -37,7 +37,7 @@ draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
   caption: Liu H, Liu J*, Li M, Gou P, Cheng Y. Assessing the evolution of PM2.5
     and related health impacts resulting from air quality policies in China.

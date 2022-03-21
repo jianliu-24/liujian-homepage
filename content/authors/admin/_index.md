@@ -2,8 +2,9 @@
 title: Jian Liu
 role: Master of Science
 avatar_filename: mmexport1637988539748.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include human behaviors, urban dynamics, and complex
+  network using multi-source big data and interdisciplinary advanced
+  technologies.
 interests:
   - Travel behaviors & activity space
   - Human mobility & urban dynamics

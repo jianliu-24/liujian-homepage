@@ -37,7 +37,7 @@ abstract: The use of social media data provided powerful data support to reveal
   social media data, especially text data, and provides a new paradigm for the
   research of residents’ activities and spatiotemporal behavior.
 draft: false
-featured: true
+featured: false
 tags: []
 categories: []
 slides: ""
@@ -52,9 +52,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *ISPRS International Journal of Geo-Information*
 projects: []
 date: 2022-03-21T07:55:10.666Z

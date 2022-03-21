@@ -1,4 +1,17 @@
 ---
+title: "Exploring the Spatiotemporal Patterns of Residents’ Daily Activities
+  Using Text-Based Social Media Data: A Case Study of Beijing, China"
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Bin Meng
+  - Juan Wang
+  - Siyu Chen
+  - Bin Tian
+  - Guoqing Zhi
+doi: 10.3390/ijgi10060389
+publication_short: In *ISPRS Int. J. Geo-Inf.*
 abstract: The use of social media data provided powerful data support to reveal
   the spatiotemporal characteristics and mechanisms of human activity, as it
   integrated rich spatiotemporal and textual semantic information. However,
@@ -23,43 +36,34 @@ abstract: The use of social media data provided powerful data support to reveal
   statistical method, and spatial techniques, broadens the application areas of
   social media data, especially text data, and provides a new paradigm for the
   research of residents’ activities and spatiotemporal behavior.
+draft: false
+featured: true
+tags: []
+categories: []
 slides: example
 url_pdf: ""
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Bin Meng
-  - Juan Wang
-  - Siyu Chen
-  - Bin Tian
-  - Guoqing Zhi
+image:
+  caption: "Meng B, Wang J, Chen, S, Tian B, Zhi G. Exploring the Spatiotemporal
+    Patterns of Residents’ Daily Activities Using Text-Based Social Media Data:
+    A Case Study of Beijing, China. ISPRS International Journal of
+    Geo-Information. 2021, 10(6):389."
+  focal_point: ""
+  preview_only: false
+  filename: featured.jpg
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
 author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *ISPRS International Journal of Geo-Information*
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: In *ISPRS Int. J. Geo-Inf.*
-url_source: ""
-url_video: ""
-title: "Exploring the Spatiotemporal Patterns of Residents’ Daily Activities
-  Using Text-Based Social Media Data: A Case Study of Beijing, China"
-doi: 10.3390/ijgi10060389
-featured: true
-tags: []
-categories: []
 projects:
   - "科技部重点研发项目子课题: 城市典型事件发现与预警数据支撑与应用服务"
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: featured.jpg
 date: 2022-03-21T07:55:10.666Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

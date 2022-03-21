@@ -27,5 +27,6 @@ projects: []
 image:
   caption: ""
   focal_point: ""
+  filename: featured.jpg
 url_code: ""
 ---

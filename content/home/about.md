@@ -2,7 +2,7 @@
 widget: about
 widget_id: "3.21"
 headless: true
-weight: 20
+weight: 10
 title: About me
 active: true
 author: admin

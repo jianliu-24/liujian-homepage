@@ -43,5 +43,9 @@ image:
   filename: featured.jpg
   focal_point: ""
   preview_only: false
-date: 2022-03-21T08:37:28.978Z
+  caption: "Liu J, Meng B, Wang J, Chen, S, Tian B, Zhi G. Exploring the
+    Spatiotemporal Patterns of Residents’ Daily Activities Using Text-Based
+    Social Media Data: A Case Study of Beijing, China. ISPRS International
+    Journal of Geo-Information. 2021; 10(6):389."
+date: 2021-06-05T12:00:29.053Z
 ---

@@ -39,5 +39,8 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Liu H, Liu J*, Li M, Gou P, Cheng Y. Assessing the evolution of PM2.5
+    and related health impacts resulting from air quality policies in China.
+    Environmental Impact Assessment Review. 2022; 93:106727.
 date: 2022-03-21T07:56:08.507Z
 ---

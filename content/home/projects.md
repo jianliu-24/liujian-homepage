@@ -14,9 +14,9 @@ content:
     - name: Travel behaviors
       tag: Travel behaviors
     - name: Urban space
-      tag: Urban space
+      tag: Demo
     - name: Complex networks
-      tag: Complex networks
+      tag: Demo
     - name: Other
       tag: Demo    
 design:

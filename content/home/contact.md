@@ -18,7 +18,7 @@ content:
   address:
     street: No.105 West 3rd Ring Road North
     city: Beijing
-    region: Beijing
+    region: China
     postcode: "100048"
     country: China
     country_code: CA

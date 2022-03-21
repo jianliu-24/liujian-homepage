@@ -1,7 +1,12 @@
 ---
-title: "国家自然科学基金面上项目: 功能重组背景下城市职住分离模式、评估预警及规划响应"
+title: "National Natural Science Foundation of China Project: Jobs-housing
+  Separation Patterns, Measurement, Early Warning and Planning Response in the
+  Context of Functional Reorganization"
 date: 2022-03-21T07:28:19.574Z
-summary: 2019.09 - 至今
+summary: |-
+  Sep 2019 - Present
+
+  My contribution: Spatial analysis, Visualization, Report writing.
 draft: false
 featured: false
 image:

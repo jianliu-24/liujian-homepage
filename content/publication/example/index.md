@@ -43,10 +43,7 @@ categories: []
 slides: ""
 url_pdf: ""
 image:
-  caption: "Meng B, Wang J, Chen, S, Tian B, Zhi G. Exploring the Spatiotemporal
-    Patterns of Residents’ Daily Activities Using Text-Based Social Media Data:
-    A Case Study of Beijing, China. ISPRS International Journal of
-    Geo-Information. 2021, 10(6):389."
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
@@ -59,8 +56,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *ISPRS International Journal of Geo-Information*
-projects:
-  - "科技部重点研发项目子课题: 城市典型事件发现与预警数据支撑与应用服务"
+projects: []
 date: 2022-03-21T07:55:10.666Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z

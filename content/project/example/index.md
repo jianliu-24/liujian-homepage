@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: ""
+summary: 2019.09 - 2022.03
 url_video: ""
 date: 2022-03-21T07:24:19.660Z
 external_link: ""

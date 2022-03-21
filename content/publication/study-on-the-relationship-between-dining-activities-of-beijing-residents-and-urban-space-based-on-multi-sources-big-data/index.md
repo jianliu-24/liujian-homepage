@@ -5,10 +5,10 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Meng B
-  - Chen S
-  - Chen Z
-  - Zhan D
+  - Bin Meng
+  - Siyu Chen
+  - Zhe Chen
+  - Dongsheng Zhan
 doi: 10.13959/j.issn.1003-2398.2021.02.009
 publication: Human geography
 publication_short: Human geography

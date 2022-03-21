@@ -38,19 +38,6 @@ content:
     latitude: '39.930167'
     longitude: '116.305396'
   directions: Enter Building 1 and take the stairs to Office 816 on Floor 8
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
 
 design:
   columns: '2'

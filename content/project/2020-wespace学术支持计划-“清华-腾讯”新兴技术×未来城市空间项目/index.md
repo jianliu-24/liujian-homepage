@@ -1,7 +1,15 @@
 ---
-title: 2020 WeSpace学术支持计划:“清华-腾讯”新兴技术×未来城市空间项目
-date: 2022-03-21T07:40:26.882Z
-summary: 2020.12 – 2021.07
+title: "WeSpace Academic Support Plan in 2020: “Tsinghua-Tencent” Emerging
+  Technologies × Future Urban Space project"
+date: 2021-07-30T07:40:26.882Z
+summary: >-
+  Time: 2020.12 – 2021.07
+
+
+  Project name: The impact of emerging technologies on future urban space under the trend of urbanization
+
+
+  My contribution: Proposal and Report writing.
 draft: false
 featured: false
 image:

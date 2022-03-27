@@ -1,6 +1,7 @@
 ---
 title: "WeSpace Academic Support Plan in 2020: “Tsinghua-Tencent” Emerging
   Technologies × Future Urban Space project"
+subtitle: Urban space
 date: 2021-07-30T07:40:26.882Z
 summary: >-
   Time: Dec 2020 – July 2021

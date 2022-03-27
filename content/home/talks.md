@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: events
 widget_id: "3.21"
 headless: true
 weight: 40

@@ -1,5 +1,5 @@
 ---
-widget: events
+widget: event
 widget_id: "3.21"
 headless: true
 weight: 40

@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: "3.21"
+widget_id: "3.30"
 headless: true
 weight: 20
 title: Projects
@@ -18,7 +18,7 @@ content:
     - name: Complex networks
       tag: Demo
     - name: Other
-      tag: Demo    
+      tag: Demo
 design:
   columns: "2"
   view: 2

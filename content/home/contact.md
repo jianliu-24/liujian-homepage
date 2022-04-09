@@ -13,7 +13,7 @@ content:
       ? id
     netlify:
       captcha: false
-  email: liujian@cnu.edu.cn
+  email: Liujian@cnu.edu.cn
   phone: +86 15801151683
   address:
     street: No.105 West 3rd Ring Road North
